@@ -1,4 +1,5 @@
 def my_hash
+  laurens_hash_list = {"name" => "Lauren", "age" => 29, "Location" => "London"}
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
 
   
